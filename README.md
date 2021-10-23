@@ -12,7 +12,7 @@ The task is to accurately predict the Length of Stay for each patient on case by
 
  
 
-Data Description
+**Data Description**
 
 
 Train.zip contains 1 csv alongside the data dictionary that contains definitions for each variable
@@ -23,13 +23,13 @@ train_data_dict.csv – File containing the information of the features in train
 
 
 
-Test Set
+**Test Set**
 
 test.csv – File containing features related to patient, hospital. Need to predict the Length of stay for each case_id
 
 
 
-Sample Submission:
+**Sample Submission:**
 
 case_id: Unique id for each case
 
@@ -38,6 +38,6 @@ Stay: Length of stay for the patient w.r.t each case id in test data
 
 
 
-Evaluation Metric
+**Evaluation Metric**
 The evaluation metric for this hackathon is 100*Accuracy Score.
 
